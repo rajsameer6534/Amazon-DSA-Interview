@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0392-is-subsequence](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -77,11 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1052-grumpy-bookstore-owner) |
