@@ -64,8 +64,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0392-is-subsequence) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Matrix
 |  |
 | ------- |
 | [1463-cherry-pickup-ii](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1463-cherry-pickup-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
