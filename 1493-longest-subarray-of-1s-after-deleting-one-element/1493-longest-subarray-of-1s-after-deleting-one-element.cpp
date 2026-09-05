@@ -5,7 +5,6 @@ public:
         int left=0;
         int nz=0;
         int maxi=0;
-        int idx=-1;
         for(int right=0;right<n;right++){
             if(nums[right]==0) nz++;
             while(nz>1){
