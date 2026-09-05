@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0567-permutation-in-string) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Ternary Search
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0567-permutation-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Matrix
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1004-max-consecutive-ones-iii) |
