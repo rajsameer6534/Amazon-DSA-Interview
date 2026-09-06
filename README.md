@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0410-split-array-largest-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0252-meeting-rooms](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0252-meeting-rooms) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 ## String
 |  |
 | ------- |
@@ -125,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Quicksort
