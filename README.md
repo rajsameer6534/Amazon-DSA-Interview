@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1052-grumpy-bookstore-owner) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Quicksort
