@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0125-valid-palindrome) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0016-3sum-closest) |
 | [0252-meeting-rooms](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0252-meeting-rooms) |
 | [0881-boats-to-save-people](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0977-squares-of-a-sorted-array) |
