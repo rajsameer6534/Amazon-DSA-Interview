@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1004-max-consecutive-ones-iii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0410-split-array-largest-sum) |
+| [0881-boats-to-save-people](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0567-permutation-in-string) |
+| [0881-boats-to-save-people](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0977-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Ternary Search
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0252-meeting-rooms](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0252-meeting-rooms) |
+| [0881-boats-to-save-people](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0977-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -159,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
