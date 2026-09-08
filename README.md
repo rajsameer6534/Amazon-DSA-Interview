@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0410-split-array-largest-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0125-valid-palindrome) |
