@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1552-magnetic-force-between-two-balls](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1552-magnetic-force-between-two-balls) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1552-magnetic-force-between-two-balls](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1552-magnetic-force-between-two-balls) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0977-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1552-magnetic-force-between-two-balls](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1552-magnetic-force-between-two-balls) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
