@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0252-meeting-rooms](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0253-meeting-rooms-ii) |
 | [0410-split-array-largest-sum](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -206,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
