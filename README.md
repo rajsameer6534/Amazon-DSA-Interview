@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0392-is-subsequence) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0278-first-bad-version) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
