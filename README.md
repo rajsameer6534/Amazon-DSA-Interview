@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -219,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0739-daily-temperatures) |
+## Math
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
