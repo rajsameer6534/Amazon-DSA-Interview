@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1552-magnetic-force-between-two-balls) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0844-backspace-string-compare) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Matrix
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0904-fruit-into-baskets) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
