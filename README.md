@@ -231,4 +231,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0007-reverse-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Depth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1971-find-if-path-exists-in-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
