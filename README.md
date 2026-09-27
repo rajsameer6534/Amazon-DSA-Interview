@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0844-backspace-string-compare) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Matrix
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0844-backspace-string-compare) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rajsameer6534/Amazon-DSA-Interview/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
